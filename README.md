@@ -1,3 +1,6 @@
+# This repository is no longer actively maintained by VMware, Inc.
+
+
 # Get previous tag
 
 [![Continuous Integration](https://github.com/WyriHaximus/github-action-get-previous-tag/actions/workflows/ci.yml/badge.svg)](https://github.com/WyriHaximus/github-action-get-previous-tag/actions/workflows/ci.yml)
